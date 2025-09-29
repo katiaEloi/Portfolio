@@ -31,7 +31,7 @@ Especialista en **.NET, C#, ASP.NET MVC/Core, Blazor (en aprendizaje), SQL Serve
 ---
 
 ## 📜 CV  
-Puedes ver mi **CV actualizado** aquí: [CV en PDF](#)  
+Puedes ver mi **CV actualizado** aquí: [CV en PDF](C:\Undida D\Curriculum 2025\CV_KatiaBarron_Actualizado_2025.pdf)  
 *(👉 sustituye el `#` por el enlace cuando subas tu PDF al repo)*  
 
 ---
